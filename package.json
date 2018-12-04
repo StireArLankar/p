@@ -1,8 +1,8 @@
 {
-  "name": "cake",
+  "name": "portfolio",
   "version": "1.0.0",
   "private": true,
-  "description": "Торты на заказ",
+  "description": "Portfolio",
   "devDependencies": {
     "@htmlacademy/editorconfig-cli": "^1.x",
     "autoprefixer": "^9.1.x",
@@ -31,7 +31,6 @@
   },
   "browserslist": [
     "last 2 versions",
-    "IE 11",
     "Firefox ESR"
   ],
   "editorconfig-cli": [
